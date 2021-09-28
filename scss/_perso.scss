@@ -1,0 +1,9 @@
+$red: #f00 !default; // Pensez à mettre !default pour déclaration
+
+.texte-blanc {
+  color: $blanc; // Attention => Juste deux espaces AVANT // pas d'identation
+}
+
+.texte-rouge {
+  color: $red;
+}
